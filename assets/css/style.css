@@ -127,5 +127,16 @@ section button:active {
     box-shadow: 0 5px gray;
     transform: translateY(4px);
 }
-
 /* end of contact me form */
+
+/* start of footer */
+footer {
+    background-color: rgb(21, 99, 73);
+    color: white;
+    font-size: 10px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    border-bottom: 5px solid rgb(96, 94, 94);
+}
+/* end of footer */

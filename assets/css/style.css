@@ -99,7 +99,10 @@ section div {
 }
 
 section div input {
-    /* possible stylings to the type-in part of form */
+    display: block;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 1px gray;
+    margin: auto;
 }
 
 section button {

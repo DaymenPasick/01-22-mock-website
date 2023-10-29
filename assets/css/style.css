@@ -90,7 +90,12 @@ section {
 }
 
 section div {
-    /* border and positioning of form */
+    position: absolute;
+    width: 50%;
+    margin: 1% 25%;
+    padding-bottom: 50px;
+    border: 5px solid rgb(228, 172, 123) ;
+    border-radius: 10px;
 }
 
 section div input {

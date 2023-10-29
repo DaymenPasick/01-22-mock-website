@@ -17,7 +17,7 @@ body {
 header {
     width: 100%;
     margin-top: 60px;
-    /* margin-bottom:; might need this for positioning*/
+    margin-bottom: -30px;
 }
 
 /* center-aligned header message */
@@ -34,7 +34,7 @@ nav {
  background-color: green;
  color: white;
  font-size: 20px;
- border-bottom:8px solid peachpuff;
+ border-bottom: 8px solid peachpuff;
 }
 
 ul {
@@ -115,6 +115,7 @@ section button {
     margin-left: 1.5%;
     width: auto;
     box-shadow: 1px 1px 1px gray;
+    cursor: pointer;
 }
 
 section button:hover {

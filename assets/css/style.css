@@ -45,7 +45,8 @@ ul {
 }
 
 li {
- /* specific settings for each individual list items */
+ display: inline;
+ margin: auto 1%;
 }
 
 a {

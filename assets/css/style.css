@@ -76,3 +76,32 @@ figcaption {
     font-weight: bold;
 }
 /* end of main website img section */
+
+
+/* start of contact me form */
+
+section {
+    /* general form background settings */
+}
+
+section div {
+    /* border and positioning of form */
+}
+
+section div input {
+    /* possible stylings to the type-in part of form */
+}
+
+section button {
+    /* general button settings */
+}
+
+section button:hover {
+    /* button hover settings */
+}
+
+section button:active {
+    /* CLICK DA BUTTON!!!! >:3 */
+}
+
+/* end of contact me form */

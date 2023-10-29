@@ -119,11 +119,13 @@ section button {
 }
 
 section button:hover {
-    /* button hover settings */
+    background-color: rgb(21, 99, 73);
 }
 
 section button:active {
-    /* CLICK DA BUTTON!!!! >:3 */
+    background-color: rgb(21, 99, 73);
+    box-shadow: 0 5px gray;
+    transform: translateY(4px);
 }
 
 /* end of contact me form */

@@ -24,3 +24,25 @@ header {
 h1 {
     text-align: center;
 }
+
+/* start of navigation bar */
+nav {
+ /* overall nav styling */
+}
+
+ul {
+    /* overall list location...also need to nullify style */
+}
+
+li {
+ /* specific settings for each individual list items */
+}
+
+a {
+ /* possible style changes to link */
+}
+
+a:hover {
+ /* tiny change when mouse is hovered over */
+}
+/* end of navigation bar */

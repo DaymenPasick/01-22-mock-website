@@ -81,8 +81,8 @@ figcaption {
 /* start of contact me form */
 
 section {
-    background-color: peachpuff;
     position: relative;
+    background-color: peachpuff;
     border-top: 5px solid rgb(228, 172, 123);
     padding-top: 20px;
     height: 180px;
@@ -106,7 +106,15 @@ section div input {
 }
 
 section button {
-    /* general button settings */
+    position: relative;
+    background-color: rgb(96, 94, 94);
+    font-size: 18px;
+    padding: 2px 14px;
+    color: white;
+    margin-top: 88px;
+    margin-left: 1.5%;
+    width: auto;
+    box-shadow: 1px 1px 1px gray;
 }
 
 section button:hover {

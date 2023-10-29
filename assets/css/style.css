@@ -50,10 +50,12 @@ li {
 }
 
 a {
- /* possible style changes to link */
+ color: white;
+ text-decoration: none;
 }
 
 a:hover {
- /* tiny change when mouse is hovered over */
+ text-decoration: underline;
+ font-style:italic;
 }
 /* end of navigation bar */

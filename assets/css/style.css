@@ -81,7 +81,12 @@ figcaption {
 /* start of contact me form */
 
 section {
-    /* general form background settings */
+    background-color: peachpuff;
+    position: relative;
+    border-top: 5px solid rgb(228, 172, 123);
+    padding-top: 20px;
+    height: 180px;
+    text-align: center;
 }
 
 section div {
